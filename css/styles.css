@@ -1,0 +1,14 @@
+:root {
+  --font-family: "Roboto", sans-serif;
+  --second-family: "Raleway", sans-serif;
+  --title
+}
+.nav-list-link{
+    font-weight: 500;
+letter-spacing: 0.02em;
+color: #212121;
+}
+
+h1.h2.h3.h4.h5.h6 {
+  color: var(--title-color);
+}
